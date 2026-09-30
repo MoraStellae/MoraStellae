@@ -1,5 +1,5 @@
 <div align="center">
-<img src="banner-astro-v4.svg" width="960" alt="Banner astronómico de Pablo">
+<img src="Imagenes/banner-astro-v4.svg" width="960" alt="Banner astronómico de Pablo">
 <br>
 
 
@@ -48,10 +48,10 @@
     </tr>
     <tr>
       <td valign="top"><code>├─ 🔭 astronomy:</code><br><br>
-        <img src="logo-astropy.png" height="48" alt="Astropy">
-        <img src="logo-rubin.png" height="48" alt="Rubin/LSST">
-        <img src="logo-ztf.png" height="48" alt="ZTF">
-        <img src="logo-alerce.png" height="48" alt="ALeRCE"><br>
+        <img src="Imagenes/logo-astropy.png" height="48" alt="Astropy">
+        <img src="Imagenes/logo-rubin.png" height="48" alt="Rubin/LSST">
+        <img src="Imagenes/logo-ztf.png" height="48" alt="ZTF">
+        <img src="Imagenes/logo-alerce.png" height="48" alt="ALeRCE"><br>
         <sub><code>Astropy · Rubin/LSST · ZTF · ALeRCE </code></sub>
       </td>
       <td valign="top"><code>╰─ ⚙ tools:</code><br><br>
