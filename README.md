@@ -19,7 +19,8 @@
   📊 Pivotando a ciencia de datos<br>
   🌌 Experiencia en datos astronómicos: Rubin/LSST, ZTF y ALeRCE<br>
   🤖 Me interesa el machine learning aplicado a datos científicos<br>
-  🤝 Abierto a colaboraciones de investigación y proyectos freelance<br>
+  💼 Buscando oportunidades laborales en ciencia de datos<br>
+  🤝 Abierto también a colaboraciones de investigación y proyectos freelance<br>
 </p>
 
 <br>
@@ -62,7 +63,7 @@
   </tbody>
   <tfoot>
     <tr>
-      <td colspan="2"><code>status: ready&nbsp;&nbsp;·&nbsp;&nbsp;open_to: research + freelance</code></td>
+      <td colspan="2"><code>status: ready&nbsp;&nbsp;·&nbsp;&nbsp;open_to: jobs + research + freelance</code></td>
     </tr>
   </tfoot>
 
